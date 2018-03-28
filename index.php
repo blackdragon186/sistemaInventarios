@@ -42,9 +42,9 @@
 	<br><br><br>
 	<div class="main">
 		<div class="wrap2">
-<!--			<div class="content invoice">-->
-			    <br><br>
-			    <div class="container_border">
+			<!-- <div class="content invoice">-->
+			<br><br>
+			<div class="container_border">
 				<div class="container-fluid">
 					<div class="panel panel-default">
 						<div class="panel-heading colocarIcono">
@@ -61,17 +61,23 @@
 							    <div class="col-md-4">
                                     <img src="img/logo_index1.png" alt="imagen1.png" class="img-responsive">
                                     <br>
-                                    <p class="wow zoomIn justificar" data-wow-duration="3s" data-wow-delay="1s">Olvídate de las complejas y costosas implementaciones. Utiliza Disys FEM desde el primer día. No requieres experiencia previa.</p>
+                                    <p class="wow zoomIn justificar" data-wow-duration="3s" data-wow-delay="1s">
+										Olvídate de las complejas y costosas implementaciones. Utiliza Disys FEM 
+										desde el primer día. No requieres experiencia previa.</p>
                                 </div>
                                 <div class="col-md-4">
                                     <img src="img/logo_index2.png" alt="imagen1.png" class="img-responsive">
                                     <br>
-                                    <p class="wow zoomIn justificar" data-wow-duration="3s" data-wow-delay="1s">No importa el giro de tu empresa, Disys FEM te ofrece una solución para todos los procesos de tu negocio.</p>
+                                    <p class="wow zoomIn justificar" data-wow-duration="3s" data-wow-delay="1s">
+										No importa el giro de tu empresa, Disys FEM te ofrece una solución para 
+										todos los procesos de tu negocio.</p>
                                 </div>
                                 <div class="col-md-4">
                                     <img src="img/Sin%20t%C3%ADtulo-3.png" alt="imagen1.png" class="img-responsive">
                                     <br>
-                                    <p class="wow zoomIn justificar" data-wow-duration="3s" data-wow-delay="1s">La información que necesitas al momento en que la necesitas sin importar donde te encuentres.</p>
+                                    <p class="wow zoomIn justificar" data-wow-duration="3s" data-wow-delay="1s">
+										La información que necesitas al momento en que la necesitas sin importar 
+										donde te encuentres.</p>
                                 </div>
 							</div>
 							<br>
@@ -89,19 +95,26 @@
                                 <br>
                                 <div class="col-lg-12 tam_letra">
                                     <p class="wow zoomIn" data-wow-duration="4s" data-wow-delay="1s">
-                                        Disys FEM está diseñado para mostrarte la información más importante de tus inventarios y existencias cuando Tú la necesites sin importar en donde te encuentres.
+										Disys FEM está diseñado para mostrarte la información más importante
+										 de tus inventarios y existencias cuando Tú la necesites sin importar 
+										 en donde te encuentres.
                                         <br><br>
-                                        Con las herramientas disponibles en Disys FEM podrás controlar y supervisar todos los movimientos que se realicen en tus inventarios sin importar cuantos tengas o en que parte del país estén ubicados. Nuestra interface intuitiva y fácil de usar te permitirá empezar a registrar existencias y almacenes  en cuestión de minutos.
+										Con las herramientas disponibles en Disys FEM podrás controlar y supervisar 
+										todos los movimientos que se realicen en tus inventarios sin importar 
+										cuantos tengas o en que parte del país estén ubicados. Nuestra interface 
+										intuitiva y fácil de usar te permitirá empezar a registrar existencias y 
+										almacenes  en cuestión de minutos.
                                         <br><br>
-                                        Nuestro sistema de control de inventarios en la nube te ayudará a eliminar los extravíos de artículos y mantener tus almacenes bien organizados.
+										Nuestro sistema de control de inventarios en la nube te ayudará a eliminar 
+										los extravíos de artículos y mantener tus almacenes bien organizados.
                                     </p>
                                 </div>
 							</div>
 						</div>
 					</div>
 				</div>
-				</div>
-<!--			</div>-->
+			</div>
+			<!--</div>-->
 		</div>
 		<!-- ./wrap -->
 	</div>
